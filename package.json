@@ -1,6 +1,6 @@
 {
 	"name": "A4IF",
-	"version": "1.0.6",
+	"version": "3.7.1",
 	"description": "A simple Facebook Messenger Bot By A4IF",
 	"main": "arifvau.js",
 	"scripts": {
