@@ -1,5 +1,5 @@
 {
-  "name": "fca-traarifvau-api",
+  "name": "fca-rebel-remake",
   "version": "1.5.2",
   "description": "Facebook-chat-api protect and deploy by ARIF VAU and TRS Team",
   "main": "index.js",
@@ -84,6 +84,6 @@
     }
   },
   "keywords": [
-    "fca-traarifvau-api"
+    "fca-rebel-remake"
   ]
 }
