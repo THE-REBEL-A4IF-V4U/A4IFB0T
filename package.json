@@ -1,6 +1,6 @@
 {
-  "name": "fca-rebel-api",
-  "version": "2.6.3",
+  "name": "rebel-chat-api",
+  "version": "4.8.8",
   "description": "Facebook-chat-api protect and deploy by ARIF VAU and TRS Team",
   "main": "index.js",
   "scripts": {
